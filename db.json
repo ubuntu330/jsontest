@@ -41,9 +41,49 @@
 		"reason":""
 	}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "queue": [
+	{
+		"sub" : "5401",
+		"sub_name" : "레드",
+		"main": "5420",
+		"main_name": "01_홈가치제안_해지"
+	},
+	{
+		"sub" : "5402",
+		"sub_name" : "레드",
+		"main": "5420",
+		"main_name": "01_홈가치제안_해지"
+	},
+	{
+		"sub" : "5403",
+		"sub_name" : "블루",
+		"main": "5420",
+		"main_name": "02_홈가치제안_해지"
+	},
+	{
+		"sub" : "5404",
+		"sub_name" : "레드",
+		"main": "5420",
+		"main_name": "03_홈가치제안_해지"
+	},
+	{
+		"sub" : "5405",
+		"sub_name" : "레드",
+		"main": "5420",
+		"main_name": "04_홈가치제안_해지"
+	},
+    {
+		"sub" : "",
+		"sub_name" : "",
+		"main": "5420",
+		"main_name": "04_홈가치제안_해지"
+	},
+    {
+		"sub" : "",
+		"sub_name" : "",
+		"main": "5420",
+		"main_name": "04_홈가치제안_해지"
+	}
   ],
   "profile": {
     "name": "typicode"
