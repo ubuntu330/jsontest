@@ -1,5 +1,6 @@
-[
-	{
+{
+  "posts": [
+    {
 		"date" : 20230101,
 		"p60" : 55555,
 		"add": "",
@@ -39,4 +40,12 @@
 		"update_date":"",
 		"reason":""
 	}
-]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
