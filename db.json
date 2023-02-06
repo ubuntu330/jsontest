@@ -44,23 +44,33 @@
   "queue": [
 	{
 		"sub" : "5401",
-		"sub_name" : "레드"
+		"sub_name" : "레드",
+		"master" : "5420,
+		"master_name" : "01_홈가치혁신"
 	},
 	{
 		"sub" : "5402",
-		"sub_name" : "레드"
+		"sub_name" : "레드",
+		"master" : "5421,
+		"master_name" : "01_홈가치혁신"
 	},
 	{
 		"sub" : "5403",
-		"sub_name" : "블루"
+		"sub_name" : "블루",
+		"master" : "5422,
+		"master_name" : "02_홈가치혁신"
 	},
 	{
 		"sub" : "5404",
-		"sub_name" : "레드"
+		"sub_name" : "레드",
+		"master" : "5423,
+		"master_name" : "03_홈가치혁신"
 	},
 	{
 		"sub" : "5405",
-		"sub_name" : "레드"
+		"sub_name" : "레드",
+		"master" : "5423,
+		"master_name" : "04_홈가치혁신"
 	}
   ],
 "profile": {
