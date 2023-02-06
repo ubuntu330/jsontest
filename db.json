@@ -33,8 +33,8 @@
 		"reason":""
 	},
 	{
-		"date" : 20230105,
-		"p60" : 54455,
+		"date" : "20230105",
+		"p60" : "54455",
 		"add": "",
 		"result": "",
 		"update_date":"",
@@ -62,5 +62,8 @@
 		"sub" : "5405",
 		"sub_name" : "레드"
 	},
-  ]
+  ],
+	"profile": {
+    "name": "typicode"
+  }
 }
