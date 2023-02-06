@@ -44,7 +44,7 @@
   "sub_queue": [
 	{
 		"sub" : "5401",
-		"sub_name" : "레드",
+		"sub_name" : "레드"
 	},
 	{
 		"sub" : "5402",
@@ -52,16 +52,16 @@
 	},
 	{
 		"sub" : "5403",
-		"sub_name" : "블루",
+		"sub_name" : "블루"
 	},
 	{
 		"sub" : "5404",
-		"sub_name" : "레드",
+		"sub_name" : "레드"
 	},
 	{
 		"sub" : "5405",
-		"sub_name" : "레드",
-	},
+		"sub_name" : "레드"
+	}
         
   ],
   "main_queue": [
