@@ -1,32 +1,32 @@
 {
   "posts": [
     {
-		"date" : 20230101,
-		"p60" : 55555,
+		"date" : "20230101",
+		"p60" : "55555",
 		"add": "",
 		"result": "",
 		"update_date":"",
 		"reason":""
 	},
 	{
-		"date" : 20230102,
-		"p60" : 40033,
+		"date" : "20230102",
+		"p60" : "40033",
 		"add": "",
 		"result": "",
 		"update_date":"",
 		"reason":""
 	},
 	{
-		"date" : 20230103,
-		"p60" : 66664,
+		"date" : "20230103",
+		"p60" : "66664",
 		"add": "",
 		"result": "",
 		"update_date":"",
 		"reason":""
 	},
 	{
-		"date" : 20230104,
-		"p60" : 11345,
+		"date" : "20230104",
+		"p60" : "11345",
 		"add": "",
 		"result": "",
 		"update_date":"",
@@ -60,10 +60,7 @@
 	},
 	{
 		"sub" : "5405",
-		"sub_name" : "레드",
+		"sub_name" : "레드"
 	},
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
