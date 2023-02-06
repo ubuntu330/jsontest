@@ -41,7 +41,7 @@
 		"reason":""
 	}
   ],
-  "sub_queue": [
+  "queue": [
 	{
 		"sub" : "5401",
 		"sub_name" : "레드"
@@ -64,7 +64,7 @@
 	}
         
   ],
-  "main_queue": [
+  "main": [
   	{
 		"main": "5420",
 		"main_name": "01_홈가치제안_해지"
